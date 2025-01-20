@@ -1,0 +1,48 @@
+name: pvpn
+description: "VPN Project"
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  openvpn_flutter: ^1.3.2
+  flutter_svg: ^2.0.9
+  lottie: ^2.0.0
+  gradient_borders: ^1.0.0
+  flutter_html: ^3.0.0-beta.2
+  connectivity_plus: ^5.0.2
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.3.0
+  google_mobile_ads: ^5.0.0
+  firebase_core: ^2.32.0
+  firebase_analytics: ^10.8.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/animations/
+    - assets/certificates/br/
+    - assets/certificates/ca/
+    - assets/certificates/cz/
+    - assets/certificates/de/
+    - assets/certificates/fi/
+    - assets/certificates/fr/
+    - assets/certificates/gb/
+    - assets/certificates/hk/
+    - assets/certificates/jp/
+    - assets/certificates/us/
+    - assets/images/
+    - assets/images/flags/
+    - assets/images/icons/
+    - assets/articles/
