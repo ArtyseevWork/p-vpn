@@ -1,16 +1,16 @@
 # pvpn
 
-A new Flutter project.
 
-## Getting Started
+<div align="center">
+  <img height="194" width="346" src="https://github.com/ArtyseevWork/ArtyseevWork/blob/main/assets/animation/vpn.gif"  />
+</div>
 
-This project is a starting point for a Flutter application.
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+  <h2>VPN Project</h2>
+  <p>This project uses a custom architecture based on the MVVM pattern and Clean Architecture pattern. At its core, the project uses <strong>openvpn_flutter</strong>.</p>
+  <p>The project also integrates interstitial and banner ads from <strong>google_mobile_ads</strong> and some analytics tools from <strong>Firebase</strong>.</p>
+</div>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
